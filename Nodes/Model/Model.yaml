@@ -1,0 +1,266 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Lot
+  Id: g=03b8bcbe8fef898af1626223b6698096
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Product
+  Id: g=ac9aa9a71a625b1c1636e1fdd13c15c4
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Quantity
+  Id: g=65d63f75b60b43d2e5e24c03d5cb5d07
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: Shift
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=baabf9911e7c3be2538b063bf6d42396
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: Data2
+    Id: g=dd4373f7dac5bec7243e4a8334386fe4
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: Data3
+    Id: g=fc4cfdba6e656e2c8821fb51e5fab7df
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+- Name: Value
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=c1d31e374b29803ff6f23f30b37e2c2b
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: Data2
+    Id: g=4e8c3ff4ee2c96b4b043d76f5e8e7b9c
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: Data3
+    Id: g=6e9783b91ac92fa61b69c3cab03ba282
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+- Name: OEE
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=bdcd9d52073ed4bad8b37d0efd42a10b
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data2
+    Id: g=e0e6e2323e3d8049a6e9ebb53b8e1071
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data3
+    Id: g=f1d6bc001517da7fa1b25907bc88b110
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data4
+    Id: g=6614a0f0b73a843dbf763a250e9eae39
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data5
+    Id: g=acd9c996b7fb64e9307c9bc9a7a171c4
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data6
+    Id: g=11028bad5d43eb80159eccdb153fe424
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data7
+    Id: g=10122c0b10dcef5101b8655c19a8fcd4
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data8
+    Id: g=77d0875c71dead31f054bbb9ac0a01a0
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data9
+    Id: g=bf9720d01b99da524acd936bb7f605d4
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data10
+    Id: g=d5c40510a24a45dbe657f0b87febdd14
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+- Name: Availability
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=2602a44237b002feab4ea0deeb74b105
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data2
+    Id: g=b26ad68f2102d7169b784c205f371b52
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data3
+    Id: g=fba59728f7b461f2d1eafff54de941de
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data4
+    Id: g=02dab37d254a20369daaa6e689afe5ef
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data5
+    Id: g=d5066d705820ebbf9f286f4401bffb38
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data6
+    Id: g=296a3986df86dd931edc26596494c192
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data7
+    Id: g=67f8032c331126002f0a5fb2e83a75fe
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data8
+    Id: g=94b755c68525736339bd1146450552c5
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data9
+    Id: g=f4dfe3a9283d3f126993c903b92a39e3
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data10
+    Id: g=ad08cf24202501af14be7977946b38a6
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+- Name: Performance
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=886b49d20e2d3bf1b46b2bda61e1b18f
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data2
+    Id: g=e17ed01e59463f64427a51d7caf29d62
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data3
+    Id: g=7af859a155d5b2360491f6df3a23a6ac
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data4
+    Id: g=b8c9dcbc4c932d24d8406215a7b91bea
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data5
+    Id: g=2651fbd7c9a37b6472ee177b3078e584
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data6
+    Id: g=0298ddd1c6e97f6a61f93f1bc9a791b2
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data7
+    Id: g=819d78445f8750c052f2ab81619589ae
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data8
+    Id: g=429e27663dddc2c20a3ae37f329cdc49
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data9
+    Id: g=4ba587da4c1ac9f7a53f4c43887341b3
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data10
+    Id: g=fe26819a9013147f2be0b07245715fe5
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+- Name: Quality
+  Type: BaseObjectType
+  Children:
+  - Name: Data1
+    Id: g=8ff505303a6a25f411f47184795cd22c
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data2
+    Id: g=60b2c267a0e61d8c8db281d0981f29d5
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data3
+    Id: g=1c1dd929702616b35471baaebfdbcbe9
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data4
+    Id: g=8792d6a826d4979351395e3d809250c0
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data5
+    Id: g=ee715d4767cc6a5a0e5f3997f8fd0cfa
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data6
+    Id: g=b767cfb105e986ed41071d919d312d89
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data7
+    Id: g=e774a254a009ccd20b3cd76ff934db74
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data8
+    Id: g=8cf3073eb7543bda0660f74779b68987
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data9
+    Id: g=5bf722b82a3c5a1e43fc08fa301f6171
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Data10
+    Id: g=0acb6858b54b32d46f4fa2719269b3f7
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
